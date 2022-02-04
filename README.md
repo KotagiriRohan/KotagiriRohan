@@ -4,6 +4,7 @@ I'm Rohan Kotagiri, Undergrad at Manipal University Jaipur. Aspiring to become a
 <br/>
 
 ![Metrics](metrics.classic.svg)
+<img src="/metrics.classic.svg" alt="Metrics" width="100%">
 
 Skills: PYTHON / Machine Learning / Data Science / REACT / JS / HTML / CSS / C / C++ <br/>
 
