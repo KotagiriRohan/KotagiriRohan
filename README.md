@@ -5,9 +5,9 @@ I'm Rohan Kotagiri, Undergrad at Manipal University Jaipur. Aspiring to become a
 
 ![Metrics](metrics.classic.svg)
 
-Skills: PYTHON / Machine Learning / Data Science / REACT / JS / HTML / CSS / C / C++
+Skills: PYTHON / Machine Learning / Data Science / REACT / JS / HTML / CSS / C / C++ <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KotagiriRohan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KotagiriRohan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 ![Most used (with details)](metrics.plugin.languages.details.svg)
 
