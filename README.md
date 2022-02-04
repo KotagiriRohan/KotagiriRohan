@@ -14,4 +14,4 @@ Skills: PYTHON / Machine Learning / Data Science / REACT / JS / HTML / CSS / C /
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KotagiriRohan)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+![Compact display](metrics.plugin.achievements.compact.svg)
