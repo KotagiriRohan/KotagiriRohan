@@ -1,4 +1,4 @@
-![Metrics](github-metrics.svg)
+![Metrics](metrics.classic.svg)
 
 ### Hi there 👋, Rohan Kotagiri
 #### Aspiring AI developer/Data Scientist
